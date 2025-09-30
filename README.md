@@ -114,11 +114,13 @@ int main() {
 ---
 
 📌 Sample Output
-10 enqueued to the queue.
-20 enqueued to the queue.
-30 enqueued to the queue.
+10 enqueued to the queue
+20 enqueued to the queue
+30 enqueued to the queue
+
 Queue elements: 10 20 30
-10 dequeued from the queue.
+10 dequeued from the queue
+
 Queue elements: 20 30
 
 ---
